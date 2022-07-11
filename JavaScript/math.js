@@ -4,3 +4,10 @@ const ketqua = number(1,5); // 1,5 là số cộng
 
 console.log(ketqua);
 
+/// Function 
+
+async function maths(a, b){
+   return {
+       a + b
+   }
+}
